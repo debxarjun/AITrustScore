@@ -1,9 +1,9 @@
 # AITrustScore — An Intelligent Trust Scoring Framework for AI-Generated Content
 
-**Student:** Tamohar Das  
-**Registration Number:** 24BPS1016  
+**Student:** Debarjun Chatterjee  
+**Registration Number:** 24BAI1775  
 **Institution:** Vellore Institute of Technology (VIT) Chennai  
-**Program:** B.Tech Computer Science and Engineering (Cyber Physical Systems)  
+**Program:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)  
 
 ---
 
