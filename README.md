@@ -1,7 +1,7 @@
 # AITrustScore — An Intelligent Trust Scoring Framework for AI-Generated Content
 
 **Student:** Debarjun Chatterjee  
-**Registration Number:** 24BAI1775  
+**Registration Number:** 25BAI1775  
 **Institution:** Vellore Institute of Technology (VIT) Chennai  
 **Program:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)  
 
